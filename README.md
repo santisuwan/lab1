@@ -5,3 +5,5 @@ Test Add new code to README.md file
 
 
 <?php phpinfo(); ?>
+
+print()
