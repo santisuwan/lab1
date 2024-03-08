@@ -7,3 +7,5 @@ Test Add new code to README.md file
 <?php phpinfo(); ?>
 
 print()
+
+![Image Alt Text](https://en.wikipedia.org/wiki/GitHub#/media/File:GitHub_Invertocat_Logo.svg)
